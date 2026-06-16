@@ -62,6 +62,7 @@ html, body, [class*="css"] {
     color: #C9C7E8;
     max-width: 30rem;
     margin: 0 auto;
+    text-align: center;
 }
 
 /* Zone de dépôt */
