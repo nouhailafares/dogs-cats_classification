@@ -57,3 +57,4 @@ Une application **Streamlit** a été développée pour permettre :
 - Prédiction en temps réel
 - Affichage de la classe (chien ou chat)
 - Score de confiance
+L'application est accessible en ligne sur: 
